@@ -5,8 +5,8 @@ và thông tin liên hệ. Sản phẩm là website tĩnh được xây dựng b
 
 ## Liên kết
 
-- **Tác giả:** [Vũ Nam Hải](https://github.com/vanhkazen)
-- **Hồ sơ GitHub:** https://github.com/vanhkazen
+- **Tác giả:** [Vũ Nam Hải](https://github.com/haivunam134-boop)
+- **Hồ sơ GitHub:** https://github.com/haivunam134-boop
 - **Mã nguồn:** https://github.com/haivunam134-boop/vunamhaibaikiemtraA2.22
 - **Trang GitHub Pages:** https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/
 - **Trang kết quả form:** https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/ket-qua.html
